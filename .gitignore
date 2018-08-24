@@ -1,4 +1,5 @@
 config.ini
 
-dataset
+dataset/
+retrain/
 recognizer/__pycache__
