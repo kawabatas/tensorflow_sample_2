@@ -19,6 +19,6 @@ python3 retrain.py \
 ```
 
 ## 認識
-- recognizer フォルダに使用する学習モデル `model.rb` を置く
+- recognizer フォルダに使用する学習モデル `model` を置く
 - recognizer フォルダにターゲットの画像 `target.jpg` を置く
 - `python3 recognizer/app.py` を実行する
