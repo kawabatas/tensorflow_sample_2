@@ -1,0 +1,7 @@
+version: '3'
+services:
+  app:
+    build: .
+    image: kawabatas/tensorflow_sample_2
+    volumes:
+      - .:/home/app
